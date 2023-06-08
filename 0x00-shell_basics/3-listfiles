@@ -1,2 +1,2 @@
 #!/bin/bash
-total 20 -rw-r--r-- 1 996 992 66 0-current_working_directory -rw-r--r-- 1 996 992 182 1-listit -rw-r--r-- 1 996 992 17 2-bring_me_home -rw-r--r-- 1 996 992 286 3-listfiles -rw-r--r-- 1 996 992 29 README.md
+ls -l
