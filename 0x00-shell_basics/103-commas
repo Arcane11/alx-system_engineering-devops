@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p1a | LC_ALL=C sort -d | sed -e 's/\([^\/]\)$/\1\//' | tr '\n' ',' && echo
+ls -xamp
