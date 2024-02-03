@@ -1,1 +1,2 @@
-# Solutions to tasks on Networking basics #0
+Learning about networks and networking project
+
